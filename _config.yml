@@ -4,4 +4,4 @@ defaults:
       path: "index.md"
     values:
         permalink: "index.html"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
