@@ -26,4 +26,4 @@
 
 
 <p>
-去往<a href="test.html">sandbox</a> 页面的链接。</p>
+去往<a href="news.html">News</a> 页面的链接。</p>
